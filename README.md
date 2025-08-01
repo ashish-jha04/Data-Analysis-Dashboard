@@ -22,7 +22,7 @@ The dashboard provides a comprehensive view of student results, including indivi
 
 ## 📂 Data Sources
 
-The dataset used in this project was created and managed in **Excel**, imported into **Power BI**, and connected via **SQL queries** for dynamic and efficient data retrieval.
+
 
 ## 🚀 How to Use
 
@@ -34,11 +34,8 @@ The dataset used in this project was created and managed in **Excel**, imported 
 
 ## 📷 Screenshots
 
+https://github.com/ashish-jha04/Data-Analysis-Dashboard/blob/main/Screenshot%202025-08-01%20113849.png
 
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgments
 
