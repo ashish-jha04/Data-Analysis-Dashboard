@@ -20,6 +20,10 @@ The dashboard provides a comprehensive view of student results, including indivi
 - 🔍 Filters to view data by student, subject, or class
 - 📁 Easy-to-understand layout for non-technical users
 
+## 📂 Data Sources
+
+The dataset used in this project was created and managed in **Excel**, imported into **Power BI**, and connected via **SQL queries** for dynamic and efficient data retrieval.
+
 ## 🚀 How to Use
 
 1. Open the Power BI dashboard file (`.pbix`) in Power BI Desktop.
@@ -27,6 +31,14 @@ The dashboard provides a comprehensive view of student results, including indivi
 3. Analyze the data by subjects, classes, or individual students.
 
 > Note: Make sure the SQL Server and Excel file paths are properly connected in Power BI if you're running the live version.
+
+## 📷 Screenshots
+
+
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgments
 
